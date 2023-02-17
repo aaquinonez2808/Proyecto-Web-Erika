@@ -1,0 +1,1 @@
+INSERT INTO usuario (email, nombre, password, user_name ) VALUES ('erika@espe.edu.ec','Erika Suntaxy', '$2a$10$wcKb8qb00zGReilDXQse9eEa3IvxT6aeaPJvCeQ9QX71NZLMmGyo6', 'Erika123');
